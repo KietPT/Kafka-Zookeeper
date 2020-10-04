@@ -6,4 +6,4 @@
 
 ## How to run Kafka
 1. First access to folder kafka_2.12-2.6.0 to run Kafka
-2. Run with cmd \bin\windows\kafka-server-start.bat .\config\server.properties
+2. Run with cmd \bin\windows\kafka-server-start.bat ..\..\config\server.properties
